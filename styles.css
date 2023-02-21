@@ -1,2 +1,13 @@
-
+.container-fluid{
+	display:flex;
+	flex-wrap:nowrap;
+	
+}
+img{
+	width:20px;
+	height:20px;
+}
+.row{
+	flex-direction:row;
+}
 /* Your CSS Code here. */
