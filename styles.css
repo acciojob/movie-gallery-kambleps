@@ -1,13 +1,11 @@
-.container-fluid{
-	display:flex;
-	flex-wrap:nowrap;
-	
-}
-img{
-	width:20px;
-	height:20px;
-}
+
 .row{
-	flex-direction:row;
+	display:flex;
+    flex-flow:row wrap;
+	border:2px solid black;
+	justify-content:space-between;
+}
+.col-sm-4{
+	width:20px;
 }
 /* Your CSS Code here. */
