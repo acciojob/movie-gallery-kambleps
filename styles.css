@@ -5,7 +5,16 @@
 	border:2px solid black;
 	justify-content:space-between;
 }
-.col-sm-4{
-	width:20px;
+.col-sm-4 img{
+	width:60px;
+	height:100px;
+}
+.col-sm-3 img{
+	width:80px;
+	height:100px;
+}
+.col-sm-1 img{
+	width:100px;
+	height:100px;
 }
 /* Your CSS Code here. */
